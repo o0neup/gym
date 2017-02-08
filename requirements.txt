@@ -3,3 +3,4 @@ requests>=2.0
 six
 pyglet>=1.2.0
 scipy==0.17.1
+-e git+https://github.com/shelhamer/atari-py.git@d63ced3941f25d289eb49234898f58281183d4ea#egg=atari-py
